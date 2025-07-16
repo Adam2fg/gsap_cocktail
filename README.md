@@ -1,10 +1,3 @@
-<div align="center">
-  <br />
-    <a href="https://www.youtube.com/watch?v=AW1yfBKRMKc" target="_blank">
-      <img src="public/readme/hero.png" alt="Project Banner">
-    </a>
-  <br />
-
    <div>
     <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
